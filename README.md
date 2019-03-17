@@ -4,7 +4,7 @@ __DAN, W8, PWr__
 
 __KNN - 2018__
 
-This program performs KNN classifier on three datasets:
+This program performs KNN classifier on four datasets:
 + Wines
 + Diabetes
 + Iris
