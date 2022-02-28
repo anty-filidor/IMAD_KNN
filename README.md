@@ -1,8 +1,4 @@
-#Indukcyjne metody analizy danych
-
-__DAN, W8, PWr__
-
-__KNN - 2018__
+# __KNN - 2018__
 
 This program performs KNN classifier on four datasets:
 + Wines
